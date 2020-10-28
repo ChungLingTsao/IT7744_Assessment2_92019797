@@ -1,3 +1,7 @@
 Easy way to install the application is to use a WAMP solution such as Uniform Server.
 
 Place the files into a folder located in /www/ and make sure to import the WordPress database dump file: WordPressDatabase.sql into your MySQL database.
+
+The admin account details are as follows: 
+Username: charles
+Password: Q85^pD$y3jD@VG9HE9
