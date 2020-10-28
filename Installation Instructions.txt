@@ -5,3 +5,5 @@ Place the files into a folder called 'wordpress' and place it in the /www/ folde
 The admin account details are as follows: 
 Username: charles
 Password: Q85^pD$y3jD@VG9HE9
+
+...and can be accessed at http://chunglingtsao.id.au/wp-admin/ or http://139.180.175.113/wp-admin/ if availiable
